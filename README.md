@@ -1,7 +1,9 @@
 # Readme - sphere_temp_conversion
 
+[![PyPI version](https://badge.fury.io/py/sphere-temp-conversion.svg)](https://badge.fury.io/py/sphere-temp-conversion)
+
 Provides functions for converting sample temperatures to setpoint temperatures and vice versa for the [Sphere Energy ASC-T All-solid-state battery testing device](https://www.sphere-energy.eu/solidstate-batteries).
-Supports both the PEI and alumina (Al2O3) internal sleeve.
+Supports both the PEI and alumina (Al<sub>2</sub>O<sub>3</sub>) internal sleeve.
 Maximum setpoint and sample temperatures are also accessible.
 
 Not affiliated with Sphere Energy.
